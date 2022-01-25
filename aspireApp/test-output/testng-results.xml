@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-25T11:09:07 IST" name="Default suite" finished-at="2022-01-25T11:09:24 IST" duration-ms="16838">
+    <groups>
+    </groups>
+    <test started-at="2022-01-25T11:09:07 IST" name="Default test" finished-at="2022-01-25T11:09:24 IST" duration-ms="16838">
+      <class name="aspireApp.aspireApp.testAspireProduct">
+        <test-method is-config="true" signature="setpage()[pri:0, instance:aspireApp.aspireApp.testAspireProduct@5c5eefef]" started-at="2022-01-25T11:09:07 IST" name="setpage" finished-at="2022-01-25T11:09:12 IST" duration-ms="5258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setpage -->
+        <test-method signature="testlogin()[pri:1, instance:aspireApp.aspireApp.testAspireProduct@5c5eefef]" started-at="2022-01-25T11:09:12 IST" name="testlogin" finished-at="2022-01-25T11:09:16 IST" duration-ms="4109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method signature="testProductionCreation()[pri:2, instance:aspireApp.aspireApp.testAspireProduct@5c5eefef]" started-at="2022-01-25T11:09:16 IST" name="testProductionCreation" finished-at="2022-01-25T11:09:23 IST" duration-ms="6733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductionCreation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:aspireApp.aspireApp.testAspireProduct@5c5eefef]" started-at="2022-01-25T11:09:23 IST" name="teardown" finished-at="2022-01-25T11:09:24 IST" duration-ms="706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- aspireApp.aspireApp.testAspireProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
